@@ -1,1 +1,1 @@
-worker: python OfficialParadeState.py
+worker: python officialparadestate.py
